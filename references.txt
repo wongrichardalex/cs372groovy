@@ -1,1 +1,14 @@
+Download/Install:
+	https://groovy.apache.org/download.html
 
+Documentation:
+	http://groovy-lang.org/documentation.html
+
+Learn:
+	http://groovy-lang.org/learn.html
+
+	http://groovy-lang.org/groovyconsole.html
+
+	https://www.tutorialspoint.com/groovy/
+
+	
