@@ -53,6 +53,8 @@ class HelloWorldAndSome{
         for(integer in splitInts){
             print((String)integer + " ")
         }
+
+	println(" ")
     
     }
     
