@@ -1,14 +1,27 @@
-Download/Install:
-	https://groovy.apache.org/download.html
+Book:
+	Groovy Programming: An Introduction for Java Developers
+	by: Kenneth Barclay & John Savage
 
-Documentation:
-	http://groovy-lang.org/documentation.html
-
-Learn:
+Websites:
 	http://groovy-lang.org/learn.html
 
 	http://groovy-lang.org/groovyconsole.html
 
 	https://www.tutorialspoint.com/groovy/
+
+Reference Manual:
+	http://groovy-lang.org/documentation.html
+
+Community: 
+	http://groovy-lang.org/community.html
+
+Major Project:
+
+Download/Install:
+	https://groovy.apache.org/download.html
+
+
+
+
 
 	
