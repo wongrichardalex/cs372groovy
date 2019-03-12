@@ -15,7 +15,12 @@ Reference Manual:
 Community: 
 	http://groovy-lang.org/community.html
 
-Major Project:
+Major Projects:
+	Apache OFBiz - an open source enterprise resource planning system
+		https://en.wikipedia.org/wiki/Apache_OFBiz
+
+	Gradle - an open source build automation system that uses Groovy based domain specific language (DSL) instead of XML
+		https://en.wikipedia.org/wiki/Gradle
 
 Download/Install:
 	https://groovy.apache.org/download.html
