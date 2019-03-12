@@ -20,6 +20,11 @@ Major Project:
 Download/Install:
 	https://groovy.apache.org/download.html
 
+History:
+	https://web.archive.org/web/20030901064404/http://radio.weblogs.com/0112098/2003/08/29.html
+	
+	http://mail-archives.apache.org/mod_mbox/groovy-dev/201511.mbox/%3CCAEWfVJ%3DBz-tiTTYHiPc8vY26CopLm3pPy_LADvvFh4vjVs%3Dosw%40mail.gmail.com%3E
+
 
 
 
