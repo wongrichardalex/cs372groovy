@@ -5,17 +5,14 @@ Date: 03/08/2018
 
 class HelloWorldAndSome{
     
-    static void main(String[] args){
-        
+    static void main(String[] args){ 
         helloWorld();
-        
-        sortBoi();
-    
+        sortBoi(); 
     }
 
     static void helloWorld(){
     /*
-        This method will simply print "Hello World!"
+        This method will simply print "Hello World!" to the command line
     */
     
         //This is a variable hw defined as a string literal "Hello World" 
